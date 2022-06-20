@@ -10,6 +10,6 @@
 <li>📚 BA in Literature from the University of California, Santa Cruz</li>
   </ul>
   <h2>Let's be friends</h2> 
-  <a href = "https://www.codewars.com/users/pgarbrecht">⚔️ Ally on Codewars</a> | <a href = "https://www.linkedin.com/in/philgarbrecht/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="20px" > Connect on LinkedIn</a> | <a href = "mailto: philgarbrecht@gmail.com">📫 Email me</a>                                                                                                                                                           
+  <a href = "https://www.codewars.com/users/pgarbrecht">⚔️ Ally on Codewars</a> | <a href = "https://www.linkedin.com/in/philgarbrecht/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="20px" margin-top="-5px" > Connect on LinkedIn</a> | <a href = "mailto: philgarbrecht@gmail.com">📫 Email me</a>                                                                                                                                                           
   </body>
 </html>
