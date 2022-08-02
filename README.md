@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-  <h1>Hi, I’m Phil 👋🏼🏻 </h1>
+  <h1>Hi, I’m Phil 👋🏼 </h1>
   <img src="/banner.gif" alt="Image that reads "Phil Garbrecht, Full-Stack Software Engineer">         
   <h2>About</h2>      
   <p>I'm a fullstack software engineer who loves making things that help people. I fell in love with coding through web development, working professionally on websites for the last 5 years. Through my education I've expanded my skillset to include a wide range of programming languages and technologies. My career goal is to work full-time as a software engineer utilizing my existing skills and build new ones. In my free time, I love working on children's educational apps and media for my business Family Gains.</p>                                                                                    
