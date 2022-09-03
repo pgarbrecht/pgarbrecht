@@ -22,6 +22,9 @@
 <li>📚 BA in Literature from the University of California, Santa Cruz</li>
   </ul>
   <h2>Let's be friends</h2> 
-  <a href = "https://www.linkedin.com/in/philgarbrecht/">🔗 Connect on LinkedIn</a> | <a href = "mailto: philgarbrecht@gmail.com">📫 Email me</a>                                                                                                                                                           
+  <a href = "https://www.linkedin.com/in/philgarbrecht/">🔗 Connect on LinkedIn</a> | <a href = "mailto: philgarbrecht@gmail.com">📫 Email me</a>                                                                                                                                         
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pgarbrecht&hide_border=true)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pgarbrecht&layout=compact)](https://github.com/pgarbrecht)
+  
   </body>
 </html>
