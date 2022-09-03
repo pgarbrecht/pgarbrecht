@@ -9,7 +9,7 @@
   <p>I'm a fullstack software engineer who loves making things that help people. I fell in love with coding through web development, working professionally on websites for the last 5 years. Through my education I've expanded my skillset to include a wide range of programming languages and technologies. My career goal is to work full-time as a software engineer utilizing my existing skills and build new ones. In my free time, I love working on children's educational apps and media for my business Family Gains.</p>
   
   <h2>Portfolio</h2>    
-  <p>View my [live portfolio site](https://pgarbrecht.github.io) and check out the code in my [portfolio github repo](https://github.com/pgarbrecht/pgarbrecht.github.io)!</p>
+  <p>View my <a href = "https://pgarbrecht.github.io">live portfolio site</a> and check out the code in my <a href = "https://github.com/pgarbrecht/pgarbrecht.github.io">portfolio github repo</a>!</p>
   
   <h2>Skills</h2>   <!--Note: the space needs to be below this for proper formatting -->
                                                                                              
@@ -20,7 +20,7 @@
   <h2>Education</h2>                                                                                                                 
   <ul>
 <li>🥾 Software Engineering & Web Development Bootcamps at General Assembly</li>
-<li>🖥️ Coursera specializations in Java & Python</li>
+<li>🖥️ Certifications in Java, Spring, Mobile Development, PHP, Python & AWS.</li>
 <li>📚 BA in Literature from the University of California, Santa Cruz</li>
   </ul>
   <h2>Let's be friends</h2> 
