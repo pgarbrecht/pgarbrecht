@@ -23,7 +23,7 @@
   </ul>
   <h2>Let's be friends</h2> 
   <a href = "https://www.linkedin.com/in/philgarbrecht/">🔗 Connect on LinkedIn</a> | <a href = "mailto: philgarbrecht@gmail.com">📫 Email me</a>                                                                                                                                         
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pgarbrecht"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pgarbrecht&hide_border=true"/></a>
   
   </body>
 </html>
