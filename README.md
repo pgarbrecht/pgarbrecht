@@ -13,17 +13,19 @@
   
   <h2>Skills</h2>   <!--Note: the space needs to be below this for proper formatting -->
                                                                                              
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="60px" alt="html5 logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="60px" alt="css3 logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60px" alt="javascript logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="60px" alt="php logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="60px" alt="mongodb logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="60px" alt="express logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60px" alt="react logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="60px" alt="node js logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="60px" alt="java logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" height="60px" alt="spring logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60px" alt="python logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60px" alt="aws logo"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="60px" alt="html5 logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="60px" alt="css3 logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60px" alt="javascript logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="60px" alt="php logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="60px" alt="mongodb logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="60px" alt="express logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60px" alt="react logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="60px" alt="node js logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="60px" alt="java logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" height="60px" alt="spring logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60px" alt="python logo"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60px" alt="aws logo"/> 
+
+  <h2>Stats</h2>   
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pgarbrecht&hide_border=true"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgarbrecht"/>
 
   <h2>Education</h2>                                                                                                                 
   <ul>
-<li>🥾 Software Engineering & Web Development Bootcamps at General Assembly</li>
-<li>🖥️ Certifications in Java, Spring, Mobile Development, PHP, Python & AWS.</li>
-<li>📚 BA in Literature from the University of California, Santa Cruz</li>
+    <li>🥾 Software Engineering & Web Development Bootcamps at General Assembly</li>
+    <li>🖥️ Certifications in Java, Spring, Mobile Development, PHP, Python & AWS.</li>
+    <li>📚 BA in Literature from the University of California, Santa Cruz</li>
   </ul>
-  <h2>Let's be friends</h2> 
-  <a href = "https://www.linkedin.com/in/philgarbrecht/">🔗 Connect on LinkedIn</a> | <a href = "mailto: philgarbrecht@gmail.com">📫 Email me</a>                                                                                                                                         
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pgarbrecht&hide_border=true"/></a>
   
+  <h2>Let's be friends</h2> 
+  <a href = "https://www.linkedin.com/in/philgarbrecht/">🔗 Connect on LinkedIn</a> | <a href = "mailto: philgarbrecht@gmail.com">📫 Email me</a>                                                                                                                             
   </body>
 </html>
