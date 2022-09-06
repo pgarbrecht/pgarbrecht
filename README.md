@@ -18,7 +18,7 @@
   <h2>Education</h2>                                                                                                                 
   <ul>
     <li>🥾 Software Engineering & Web Development Bootcamps at General Assembly</li>
-    <li>🖥️ Certifications in Java, Spring, Mobile Development, PHP, Python & AWS.</li>
+    <li>🖥️ Certifications in Java, Spring, Mobile Development, PHP, Python, and AWS.</li>
     <li>📚 BA in Literature from the University of California, Santa Cruz</li>
   </ul>
   
