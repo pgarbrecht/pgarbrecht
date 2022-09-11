@@ -6,7 +6,7 @@
   <img src="/banner.gif" alt="Image that reads "Phil Garbrecht, Full-Stack Software Engineer">         
   
   <h2>About</h2>      
-  <p>I'm a fullstack software engineer who loves making things that help people. I fell in love with coding through web development, working professionally on websites for the last 5 years. Through my education I've expanded my skillset to include a wide range of programming languages and technologies. My career goal is to work full-time as a software engineer utilizing my existing skills and build new ones. In my free time, I love working on children's educational apps and media for my business Family Gains.</p>
+  <p>I'm a fullstack software engineer who loves making things that help people. I fell in love with coding through web development, working professionally on websites for the last 5 years. Through my education I've expanded my skillset to include a wide range of programming languages and technologies. I am making a career change to work full-time as a software engineer so that I can continue challenging myself and do more of what I love. In my free time, I love working on children's educational apps and media for my business Family Gains.</p>
   
   <h2>Portfolio</h2>    
   <p>View my <a href = "https://pgarbrecht.github.io">live portfolio site</a> and check out the code in my <a href = "https://github.com/pgarbrecht/pgarbrecht.github.io">portfolio github repo</a>!</p>
