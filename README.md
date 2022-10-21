@@ -6,8 +6,8 @@
   <img src="/banner.gif" alt="Image that reads "Phil Garbrecht, Full-Stack Software Engineer">         
   
   <h2>About</h2>      
-  <p>I am a full-stack software engineer who loves solving problems and making software to help people. I fell in love with coding by working full-time in website development and management for the last 5 years. </p>
-  <p>I have enhanced my hands-on development experience with formal education in software engineering & computer science to be a well-rounded engineer ready to contribute quality code and leadership on your team. </p>
+  <p>I am a full-stack software engineer who loves solving problems and making software to help people. I fell in love with coding by working full-time in website development and management for the last 5 years.</p>
+  <p>I have enhanced my hands-on development experience with formal education in software engineering & computer science to be a well-rounded engineer ready to contribute quality code and leadership on your team.</p>
   
   <h2>Portfolio</h2>    
   <p>View my <a href = "https://pgarbrecht.github.io">live portfolio site</a> and check out the code in my <a href = "https://github.com/pgarbrecht/pgarbrecht.github.io">portfolio github repo</a>!</p>
@@ -20,7 +20,7 @@
   <ul>
     <li>🥾 Software Engineering & Web Development Bootcamps at General Assembly</li>
     <li>🖥️ Certifications in Java, Spring, Mobile Development, PHP, Python, and AWS.</li>
-    <li>📚 Bachelor's Degree from the University of California, Santa Cruz</li>
+    <li>📚 Bachelor's Degree in Biology (pre-med) and English from the University of California, Santa Cruz</li>
   </ul>
   
   <h2>Connect</h2> 
