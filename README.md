@@ -18,9 +18,9 @@
 
   <h2>Education</h2>                                                                                                                 
   <ul>
-    <li>🥾 Software Engineering & Web Development Bootcamps at General Assembly</li>
-    <li>🖥️ Certifications in Java, Spring, AWS, PHP, Python, and Mobile Development</li>
-    <li>📚 Bachelor's Degree in Biology (pre-med) and English from the University of California, Santa Cruz</li>
+    <li>🥾 Software Engineering & Web Development Bootcamps at General Assembly.</li>
+    <li>🖥️ Certifications in Java, Spring, AWS, PHP, Python, and Mobile Development.</li>
+    <li>📚 Bachelor's Degree in Biology (pre-med) and English from the University of California, Santa Cruz.</li>
   </ul>
   
   <h2>Connect</h2> 
