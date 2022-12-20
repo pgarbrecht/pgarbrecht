@@ -10,7 +10,7 @@
   <p>I have enhanced my hands-on development experience with formal education in software engineering and computer science to be a well-rounded engineer ready to contribute quality code and leadership on your team.</p>
   
   <h2>Portfolio</h2>    
-  <p>View my <a href = "https://pgarbrecht.github.io">live portfolio site</a> and check out the code in my <a href = "https://github.com/pgarbrecht/pgarbrecht.github.io">portfolio github repo</a>!</p>
+  <p>View my <a href = "https://pgarbrecht.github.io">live portfolio site</a> and check out the code in my <a href = "https://github.com/pgarbrecht/pgarbrecht.github.io">portfolio Github repo</a>!</p>
   
   <h2>Skills</h2>   <!--Note: the space needs to be below this for proper formatting -->
                                                                                              
