@@ -3,7 +3,7 @@
 </head>
 <body>
   <h1>Hi, I’m Phil 👋🏼 </h1>
-  <img src="/banner.gif" alt="Image that says "Phil Garbrecht, Full-Stack Software Engineer">         
+  <img src="/banner.gif" alt="Image that says "Phil Garbrecht Full-Stack Software Engineer">         
   
   <h2>About</h2>      
   <p>I am a full-stack software engineer who loves solving problems and making software to help people. I fell in love with coding by working full-time in website development and management for the last 5 years (2 years full-stack, 3 years front-end).</p>
