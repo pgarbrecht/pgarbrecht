@@ -7,7 +7,7 @@
   
   <h2>About</h2>      
   <p>I am a full-stack software engineer who loves solving problems and making software to help people. I fell in love with coding by working full-time in website development and management for the last 5 years (2 years full-stack, 3 years front-end).</p>
-  <p>I have enhanced my hands-on development experience with formal education in software engineering and computer science to be a well-rounded engineer.</p>
+  <p>I have enhanced my hands-on development experience with formal education in software engineering & computer science to be a well-rounded engineer.</p>
   
   <h2>Portfolio</h2>    
   <p>View my <a href = "https://pgarbrecht.github.io">live portfolio site</a> and check out the code in my <a href = "https://github.com/pgarbrecht/pgarbrecht.github.io">portfolio Github repo</a>!</p>
