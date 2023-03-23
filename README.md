@@ -24,6 +24,6 @@
   </ul>
   
   <h2>Connect</h2> 
-  <a href = "https://www.linkedin.com/in/philgarbrecht/">🔗 Add me on LinkedIn</a> | <a href = "mailto: philgarbrecht@gmail.com">📫 Email me</a>                                                                                                                             
+  <a href = "https://www.linkedin.com/in/philgarbrecht/">🔗 Add on LinkedIn</a> | <a href = "mailto: philgarbrecht@gmail.com">📫 Email me</a>                                                                                                                             
   </body>
 </html>
