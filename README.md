@@ -6,7 +6,7 @@
   <img src="/banner.gif" alt="Image that says "Phil Garbrecht Full-Stack Software Engineer">         
   
   <h2>About</h2>      
-  <p>I am a full-stack software engineer who loves solving problems and making software to help people. I fell in love with coding by working in web development and now love developing software in my professional and personal life.</p>
+  <p>I am a full-stack software engineer who loves solving problems and making software to help people. I first fell in love with coding by working in web development and now love developing software in my professional and personal life.</p>
   <p>I have enhanced my hands-on development experience with formal education in software engineering and computer science to be a well-rounded engineer.</p>
   
   <h2>Portfolio</h2>    
