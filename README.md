@@ -3,10 +3,10 @@
 </head>
 <body>
   <h1>Hi, I’m Phil 👋🏼 </h1>
-  <img src="/phil-garbrecht-banner.png" alt="Image that says "Phil Garbrecht Senior Software Engineer">         
+  <img src="/phil-garbrecht-banner.png" alt="Image that says "Phil Garbrecht, Software Engineer">         
   
   <h2>About</h2>      
-  <p>I am a senior software engineer with 6 years of development experience who loves solving business problems and making software to help people. I began my career in web development and have led several web teams across stacks. I use my well-rounded experience and education in software engineering and computer science to serve as a proven senior software engineer and leader.</p>
+  <p>I am a software engineer with 5 years of development experience who loves solving business problems and making software to help people. I began my career in web development and have architected and built for web apps at scale. I use my well-rounded experience and education in software engineering and computer science to serve as a proven senior software engineer and leader.</p>
 
   <h2>Portfolio</h2>    
   <p>View my <a href = "https://pgarbrecht.github.io">live portfolio site</a> and check out the code in my <a href = "https://github.com/pgarbrecht/pgarbrecht.github.io">portfolio Github repo</a>.</p>
