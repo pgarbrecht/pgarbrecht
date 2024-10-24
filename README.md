@@ -6,7 +6,7 @@
   <img src="/phil-garbrecht-banner.png" alt="Image that says "Phil Garbrecht, Software Engineer">         
   
   <h2>About</h2>      
-  <p>I am a software engineer with 5 years of development and leadership experience, known for solving business challenges. I have built scalable production applications and led development teams across varied tech stacks. I combine hands-on expertise and formal education in software engineering and computer science to consistently deliver effective solutions.</p>
+  <p>I am a software engineer with 5 years of development and leadership experience, known for solving business challenges. I have built scalable production applications and led development teams across varied tech stacks. I combine hands-on experience and education in software engineering and computer science to consistently deliver efficient, reliable, and effective solutions.</p>
 
   <h2>Portfolio</h2>    
   <p>View my <a href = "https://pgarbrecht.github.io">live portfolio site</a> and check out the code in my <a href = "https://github.com/pgarbrecht/pgarbrecht.github.io">portfolio Github repo</a>.</p>
